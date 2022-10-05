@@ -9,7 +9,8 @@
     "start": "npm run dev",
     "lint": "eslint --ext .js,.vue src",
     "build": "node build/build.js",
-    "heroku-prebuild": "npm install --dev"
+    "heroku-prebuild": "yarn install --production=false"
+
   },
   "dependencies": {
     "vue": "^2.5.2"
