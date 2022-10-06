@@ -1,4 +1,4 @@
-### LIVE at - https://to-do-list-ft.herokuapp.com
+LIVE - https://to-do-list-ft.herokuapp.com
 Keep Learning 🧑‍💻
 
 ## Build Setup
