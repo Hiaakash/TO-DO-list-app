@@ -1,6 +1,5 @@
-# first-vue-project
-
-> learning project
+LIVE at - https://to-do-list-ft.herokuapp.com
+Keep Learning 🧑‍💻
 
 ## Build Setup
 
